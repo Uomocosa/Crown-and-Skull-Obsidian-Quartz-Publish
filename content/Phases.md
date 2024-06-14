@@ -1,3 +1,11 @@
+---
+aliases:
+  - The 5 Phases
+  - Choosing a Phase
+  - On Your Phase
+  - Enemy Phases
+  - The GM Call
+---
 Phases are a unique aspect of CROWN and SKULL. They divide time into bite-size pieces, and give player turns order, timing, and detail as each scene unfolds. Enemies also uses phases to act.
 
 ---

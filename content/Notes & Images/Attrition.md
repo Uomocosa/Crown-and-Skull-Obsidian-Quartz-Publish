@@ -1,3 +1,8 @@
+---
+aliases:
+  - Cross ‘Em Off
+  - Attrition Types
+---
 Sustaining damage from hazards and attacks is part of any RPG. You’ll be hit by arrows, knock your head, sustain sword cuts, or drop items when exhausted. 
 Attrition is a term for the reduction of your character’s resources when hit by hazards and attacks. 
 Here’s how it works... 

@@ -1,5 +1,5 @@
 # Crown and Skull
-- [[Introduction - Foreword • A Leaning Stone • Concepts & Content • A Player Focus • The North Holds • Hometowns • Game Flow|Introduction]] #TODO (*Skip*) 
+- [[Introduction|Introduction]] #TODO (*Skip*) 
 - [[Making Rolls]] 
 - [[Attrition]] 
 	- [[Total Invetory]] 
@@ -10,6 +10,7 @@
 - [[Hero Points]] 
 - [[The Extremes]] 
 - [[Character Creation]] 
+	- [[Hometowns]]
 	- [[Character Templates]] 
 	- [[Character Prompts]] 
 	- [[Custom Character Creation]] 

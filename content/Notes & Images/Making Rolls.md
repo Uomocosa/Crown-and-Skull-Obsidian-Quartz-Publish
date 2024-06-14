@@ -1,3 +1,12 @@
+---
+aliases:
+  - Flat Roll
+  - Player-Declared Skill Roll
+  - Called-For Defense Roll
+  - Rolling Damage/Effect
+  - Yes/No Rolls
+  - All Other Rolls
+---
 ### Flat Roll
 To test simple, unmodified luck, the GM may call for a ‘flat’ roll.
 This simple roll is made on a D20, rolling at or below the target or opposing roll to succeed. 
@@ -33,5 +42,3 @@ When important yes/no questions come up, and the GM doesn’t have an answer, ro
 ### All Other Rolls
 *How long until the boat arrives? How many houndmasters are there? How tall is the statue? How much armor does this knight have?* All kinds of numbers are needed and rolled for in play.
 Be flexible, ready for anything, and trust the dice absolutely.
-
----

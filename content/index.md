@@ -1,5 +1,4 @@
 # Crown and Skull
-***TESTTTTTTTTTTTT***
 - [[Introduction - Foreword • A Leaning Stone • Concepts & Content • A Player Focus • The North Holds • Hometowns • Game Flow|Introduction]] #TODO (*Skip*) 
 - [[Making Rolls]] 
 - [[Attrition]] 

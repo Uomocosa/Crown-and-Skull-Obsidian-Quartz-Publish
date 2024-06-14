@@ -19,21 +19,14 @@ Enemies and hazards will hit you in one of 5 ways:
 - ***Brutal Attrition***: Cross `1d6` total random equipment and skills
 
 ----
-### Total Inventory
-All characters are allowed 10 skills and 10 items in their inventory maximum. 
-All small items are counted as a single ‘pouch’ item. 
+![[Total Invetory]] 
 
 ----
 ### Healing and Repair
-Upon a successful heal (by magic, potion, or fi rst aid), restore `1` crossed-off skill. 
-For damaged equipment, use repair or armorer skill. 
-**Destroyed gear will need to replaced entirely**. 
+![[Healing and Repair]]
 
 ----
-### Rest & Recovery
-Regain a combined `1d4` of equipment and skills with a night’s rest in safety. 
-Additionally, after each scene in play, **once safety is found and no enemies or timers are incoming**, ‘*Take a Breather.*’ Regain `1` equipment or skill... catch your breath, ready to go on. 
+![[Rest & Recovery]]
 
 ----
-### Death
-If a hit can’t be absorbed by inventory, you take a ‘hit to the heart’ and will die at the end of the next [[Phases|phase 5]], unless healed. 
+![[Death]]

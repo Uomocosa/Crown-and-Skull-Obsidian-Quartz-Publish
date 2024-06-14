@@ -1,4 +1,4 @@
-# Crown and Skull
+# Crown and Skull 
 - [[Introduction|Introduction]] #TODO (*Skip*) 
 - [[Making Rolls]] 
 - [[Attrition]] 
@@ -24,6 +24,8 @@
 	- [[Spells]] 
 		- [[Basic Spells]] 
 		- [[Custom Spells]] 
+		- [[Unstable Magic]] 
+		- [[Infernal Magic]] 
 		- [[Acquiring Spells]] 
 		- [[Costs of Magic]] 
 	- [[Companions]] 
@@ -31,18 +33,18 @@
 	- [[Discovery]] 
 - [[Deeds]] 
 - [[Renown]] 
-- [[The Crown or the Skull?]] 
+- [[The Crown or the Skull]] 
 	- [[Crown Skills]] 
 	- [[Crown Equipment]] 
 	- [[Skull Skills]] 
 	- [[Skull Equipment]] 
 - [[Heroes of the Realm]] #TODO (*Skip*) 
 - [[Infamous Villains]] #TODO (*Skip*) 
-- [[Orders, Guilds, and Trusts]] 
+- [[Orders, Guilds, and Trusts]] #TODO (*Skip*) 
 - [[Enemy Primer]] 
 - [[Skeletons!]] 
 ---
-### TESTS
+### TESTS 
 (*See what pluigns work when published with Quartz*)
 - [[Dices Test - General Test]] 
 - [[Meta-Bind Test - Embed Note]] 

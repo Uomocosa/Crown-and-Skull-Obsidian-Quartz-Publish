@@ -1,0 +1,13 @@
+These skills can never be learned by those who choose the crown.
+- ***Dragon Speech***: *You speak draconic. One mistake can be deadly*. ^dragon-speech
+- ***Shadow Guild***: *Recall hand-signs and passwords of underground groups*. ^shadow-guild
+- ***Vicious Strike***: *When you do damage, forego your next turn to double the amount inflicted. If a kill is made, recover the turn sacrificed*. ^vicious-strike
+- ***Scurry***: *With this roll, relocate anywhere within a bowshot. What the-* ^scurry
+- ***Shadow Jump***: *Roll to move between any two deep shadows*. ^shadow-jump
+- ***Fire Snap***: *Snap your fi ngers to quadruple an open fl ame you can see*. ^Fire Snap
+- ***Misdirection***: *If a thing is noticed, you can ‘move’ that attention to something else entirely. Not with magic, but cunning*. ^Misdirection
+- ***Silent Kill***: *If you kill an unsuspecting target, roll this skill to go unnoticed*. ^silent-kill
+- ***Lift***: *Roll to steal a high-profi le item or object without being seen*. ^lift
+- ***Fade***: *Even if being directly observed, roll this skill to move unnoticed*. ^fade
+- ***Fang Disciple***: *Once per town, castle, or abbey, roll to attract a strange, misfi t worshiper... this person will do anything for you*. ^fang-disciple
+- ***Blood***: *In a pinch, drink the blood of your lineage to recover 1 skill attrition*. ^blood

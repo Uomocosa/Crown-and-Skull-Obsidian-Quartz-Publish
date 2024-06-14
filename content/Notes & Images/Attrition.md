@@ -19,14 +19,8 @@ Enemies and hazards will hit you in one of 5 ways:
 - ***Brutal Attrition***: Cross `1d6` total random equipment and skills
 
 ----
-![[Total Invetory]] 
-
-----
-### Healing and Repair
-![[Healing and Repair]]
-
-----
-![[Rest & Recovery]]
-
-----
-![[Death]]
+### Usuful Links
+- [[Total Invetory]]
+- [[Healing and Repair]]
+- [[Rest & Recovery]]
+- [[Death]]

@@ -1,0 +1,1 @@
+If a hit can’t be absorbed by inventory, you take a ‘hit to the heart’ and will die at the end of the next [[Phases|phase 5]], unless *healed*. 

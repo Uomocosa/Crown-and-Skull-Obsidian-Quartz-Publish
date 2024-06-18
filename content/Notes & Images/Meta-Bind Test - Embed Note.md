@@ -1,0 +1,3 @@
+```meta-bind-embed
+[[index]]
+```

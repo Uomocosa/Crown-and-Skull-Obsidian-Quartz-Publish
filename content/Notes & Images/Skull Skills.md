@@ -1,0 +1,13 @@
+These skills can never be learned by those who choose the crown.
+- ***[[Skull Skill - Dragon speech|Dragon Speech]]***: *You speak draconic. One mistake can be deadly*. ^dragon-speech
+- ***[[Skull Skill - Shadow guild|Shadow Guild]]***: *Recall hand-signs and passwords of underground groups*. ^shadow-guild
+- ***[[Skull Skill - Vicious strike|Vicious Strike]]***: *When you do damage, forego your next turn to double the amount inflicted. If a kill is made, recover the turn sacrificed*. ^vicious-strike
+- ***[[Skull Skill - Scurry|Scurry]]***: *With this roll, relocate anywhere within a bowshot. "What the-"* ^scurry
+- ***[[Skull Skill - Shadow jump|Shadow Jump]]***: *Roll to move between any two deep shadows*. ^shadow-jump
+- ***[[Skull Skill - Fire Snap|Fire Snap]]***: *Snap your fingers to quadruple an open flame you can see*. ^fire-snap
+- ***[[Skull Skill - Misdirection|Misdirection]]***: *If a thing is noticed, you can ‘move’ that attention to something else entirely. Not with magic, but cunning*. ^Misdirection
+- ***[[Skull Skill - Silent kill|Silent Kill]]***: *If you kill an unsuspecting target, roll this skill to go unnoticed*. ^silent-kill
+- ***[[Skull Skill - Lift|Lift]]***: *Roll to steal a high-profile item or object without being seen*. ^lift
+- ***[[Skull Skill - Fade|Fade]]***: *Even if being directly observed, roll this skill to move unnoticed*. ^fade
+- ***[[Skull Skill - Fang disciple|Fang Disciple]]***: *Once per town, castle, or abbey, roll to attract a strange, misfit worshiper... this person will do anything for you*. ^fang-disciple
+- ***[[Skull Skill - Blood|Blood]]***: *In a pinch, drink the blood of your lineage to recover **1** [[Attrition|skill attrition]]. ^blood

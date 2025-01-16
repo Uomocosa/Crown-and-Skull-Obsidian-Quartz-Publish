@@ -1,0 +1,2 @@
+- The process of taking damage is basicly forgetting skills for a determined time.
+- Does it make sense that a mage can lose the skill [[Skill - Spell Research|spell research]] in a fight, or should this skill be "unlosable"? meaning that a mage with this skill has "1hp" less.

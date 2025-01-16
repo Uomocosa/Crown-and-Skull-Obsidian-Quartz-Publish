@@ -1,0 +1,4 @@
+- [[Homebrew Character Idea - Konosuba • Satou Kazuma]]
+- [[Homebrew Character Idea - Konosuba • Darkness]]
+- [[Homebrew Character Idea - Konosuba • Aqua]]
+- [[Homebrew Character Idea - Konosuba • Megumin]]
